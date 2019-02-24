@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\David\Desktop\DA1A\DA1B\DA1B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\Debug\DA1B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA1B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA1B.map</FILE>
+  <FILE>DA1B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <FILL><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>20</LINE></FILL>
+  <RESETX><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>48</LINE></RESETX>
+  <CONTINUE><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>28</LINE></CONTINUE>
+  <DIVIDE><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>53</LINE></DIVIDE>
+  <DIVIDERET><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>31</LINE></DIVIDERET>
+  <FILLMORE><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>35</LINE></FILLMORE>
+  <DIVIDE2><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>80</LINE></DIVIDE2>
+  <DIVIDERET2><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>43</LINE></DIVIDERET2>
+  <END><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>107</LINE></END>
+  <L1><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>57</LINE></L1>
+  <NOTDIV><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>72</LINE></NOTDIV>
+  <L2><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>84</LINE></L2>
+  <NOTDIV2><FILE>C:\Users\David\Desktop\DA1A\DA1B\DA1B\main.asm</FILE><LINE>99</LINE></NOTDIV2>
+ </LABELS>
+</ASSEMBLER_INFO>
